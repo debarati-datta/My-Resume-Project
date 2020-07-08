@@ -340,3 +340,43 @@ footer {
 
 }
 
+/*-----------------------contact Form------------------------------------------*/
+
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+
+}
+
+button[type="submit"] {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    background-color: #f84610;
+    color: #fafafa;
+
+}
+
+/*---------------------------------media queries----------------------------------------*/
+
+@media(min-width: 992px) {
+.center-form {
+    padding-top: 30px;
+    margin: 0 auto;
+    min-height: 240px;
+    max-width: 50%;
+
+}
+
+}
+    
+
+
