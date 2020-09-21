@@ -31,6 +31,14 @@
     background-color: #752828;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
 
 h1,h2,h3,h4 {
     margin: 0;
